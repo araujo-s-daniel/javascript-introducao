@@ -1,2 +1,2 @@
 # JavaScript
-Exemplos do curso de JavaScript - Explorando a linguagem
+Exemplos do curso de JavaScript - Explorando a linguagem da Alura
