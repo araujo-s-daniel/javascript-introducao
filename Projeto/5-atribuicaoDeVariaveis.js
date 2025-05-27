@@ -1,6 +1,5 @@
 console.log("Trabalhando com atribuição de variáveis");
 
-const idade = 29;
 const primeiroNome = "Ricardo";
 const sobrenome = "Bugan";
 
@@ -12,3 +11,8 @@ console.log(nomeCompleto);
 
 let contador = 0;
 contador = contador + 1;
+
+let idade;
+idade = 26;
+idade = idade + 1;
+console.log(idade);
